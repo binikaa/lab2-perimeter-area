@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/* program to calculate area and perameter */
 
 public class Lab2AreaPerimeterApp {
 
